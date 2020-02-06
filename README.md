@@ -24,12 +24,20 @@ loop防止播放视频结束后，显示腾讯的广告
 ```
 ## 安装步奏
 ```
-cnpm install
+npm install
 ```
+
+
+## 生成发行版
+```
+npm run build
+```
+
+
 
 ### 安装后运行
 ```
-cnpm run serve
+npm run serve
 ```
 
 ### Customize configuration
